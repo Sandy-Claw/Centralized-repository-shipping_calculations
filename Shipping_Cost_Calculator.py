@@ -1,5 +1,7 @@
  # Here is a new update by Sandy-Claw
 
+# Here is another update by Sandy-Claw
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
